@@ -11,7 +11,7 @@ on:
   pull_request:
     branches: [ prod, dev, staging ]
   schedule:
-    - cron: '34 6 * * 4'
+    - cron: '24 10 * * 0'
 
 jobs:
   tfsec:
