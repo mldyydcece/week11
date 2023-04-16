@@ -2,6 +2,4 @@
 Week 11: working with GitHub Actions
 
 
-*test
-
-*update for staging*
+[![tfsec](https://github.com/mldyydcece/week11/actions/workflows/tfsec.yml/badge.svg?branch=prod)](https://github.com/mldyydcece/week11/actions/workflows/tfsec.yml)
